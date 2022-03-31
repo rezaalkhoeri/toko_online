@@ -139,7 +139,7 @@ class _HomeState extends State<Home> {
               ),
             ),
             Image(
-              image: AssetImage("assets/logo.png"),
+              image: AssetImage("assets/macaron.png"),
               height: 170,
               fit: BoxFit.cover,
             ),
